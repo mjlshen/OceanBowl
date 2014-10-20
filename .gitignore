@@ -1,0 +1,12 @@
+# Compiled TeX files #
+*.aux
+*.log
+*.pdf
+*.gz
+*.out
+
+# Matlab autosave #
+*.asv
+
+#Image junk files #
+*.db
